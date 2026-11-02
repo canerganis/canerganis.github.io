@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.canerganis.kenarnotu",
+      "sha256_cert_fingerprints": ["82:62:9B:E9:63:8B:8C:32:10:13:A3:96:77:65:39:E1:4C:88:DB:1D:D3:DB:31:65:5A:E1:EF:FC:27:7A:0F:D5"]
+    }
+  }
+]
